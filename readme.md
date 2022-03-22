@@ -1,3 +1,3 @@
-This function makes search, sorta and pagination
+This function makes search, sort and pagination
 
 For use this funtion you have to add it to your project and do some imports .... 
